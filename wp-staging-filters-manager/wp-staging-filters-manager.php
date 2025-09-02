@@ -4,6 +4,8 @@ Plugin Name: WP Staging Filters Manager
 Description: Import WP Staging filters/actions from docs, edit, and manage them as a single MU-plugin of snippets.
 Version: 0.2.0
 Author: Alaa Salama
+License: GPL-2.0-or-later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
 
 if (!defined('ABSPATH')) {

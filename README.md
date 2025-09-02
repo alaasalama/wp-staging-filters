@@ -3,6 +3,9 @@ WP Staging Filters Manager
 
 Import WP Staging filters/actions from the official docs, load/edit the snippet, and manage them as a single MU‑plugin file — with a clean, AJAX UI and an OOP architecture.
 
+Docs
+- WP Staging Actions & Filters: https://wp-staging.com/docs/actions-and-filters/
+
 Features
 - Import from WP Staging Docs (drops the top heading entry)
 - Live “Search & Choose from Docs” field with suggestions
@@ -29,3 +32,5 @@ Notes
 - If a snippet includes closing PHP tags (`?>`), the MU plugin build removes them to avoid parse errors.
 - IDs are normalized to drop the long docs prefix.
 
+License
+- GPL-2.0-or-later — see LICENSE or https://www.gnu.org/licenses/gpl-2.0.html
