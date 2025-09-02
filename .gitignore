@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Node / tooling
+node_modules/
+
+# Editors
+.idea/
+.vscode/
+
+# Composer
+vendor/
+composer.lock
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
